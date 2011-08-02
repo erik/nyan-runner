@@ -1,0 +1,3 @@
+bin/*
+*.dex
+*.class
